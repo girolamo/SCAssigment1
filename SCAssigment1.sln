@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCAssigment1", "SCAssigment1\SCAssigment1.csproj", "{F30FC73B-AAB0-4495-8DC6-26CCCA96E6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCAssigment1Tests", "SCAssigment1Tests\SCAssigment1Tests.csproj", "{9180BDAA-42D3-4BDE-AD93-11716F1D566F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30FC73B-AAB0-4495-8DC6-26CCCA96E6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30FC73B-AAB0-4495-8DC6-26CCCA96E6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30FC73B-AAB0-4495-8DC6-26CCCA96E6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30FC73B-AAB0-4495-8DC6-26CCCA96E6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9180BDAA-42D3-4BDE-AD93-11716F1D566F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9180BDAA-42D3-4BDE-AD93-11716F1D566F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9180BDAA-42D3-4BDE-AD93-11716F1D566F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9180BDAA-42D3-4BDE-AD93-11716F1D566F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B22E80E-3B86-4A27-ADC2-1B2BD30662AC}
+	EndGlobalSection
+EndGlobal
