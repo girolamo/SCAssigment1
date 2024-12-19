@@ -22,7 +22,7 @@ This project was prepared by Michał Grzech as a response to a recruitment assig
    ```
 2. Navigate to the project directory:
    ```bash
-   cd SCAssignment1/SCAssignment1
+   cd SCAssigment1/SCAssigment1
    ```
 3. Build the application:
    ```bash
