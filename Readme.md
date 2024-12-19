@@ -18,7 +18,7 @@ This project was prepared by Michał Grzech as a response to a recruitment assig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/girolamo/SCAssignment1.git
+   git clone https://github.com/girolamo/SCAssigment1.git
    ```
 2. Navigate to the project directory:
    ```bash
